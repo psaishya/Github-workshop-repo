@@ -1,5 +1,5 @@
 # Github-workshop-repo
-<font size= 20>
+<font size= 7>
   <font><b>Welcome to my</b></font>
 <b>Repository for git and git hub workshop.</b>
 
