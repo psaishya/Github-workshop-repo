@@ -49,7 +49,7 @@ int main()
     system("cls");
     
     FILE *xy;  ///declaring file pointer
-    xy=fopen("E:/Sadikshya/1st year 1st sem/Computer/C program/Mini_project/MP_csv.csv","r");
+    xy=fopen("MP_csv.csv","r");
     
     /**************** Calling the introduction function to display introduction of program**************/
     introduction(xy);
